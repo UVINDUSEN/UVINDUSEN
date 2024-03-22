@@ -58,14 +58,14 @@
 <br>
 <p align="center">
 <!-- Add your linkedin profile link -->
-<a href=" ------- paste your link here -------" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="UVINDUSEN" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/uvindu-seneviratne/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="UVINDUSEN" height="50" width="50" /></a>
 
 <!-- Add your facebook profile link -->
-<a href=" ------- paste your link here -------" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="UVINDUSEN" height="50" width="50" /></a>
+<a href="https://www.facebook.com/uvindu.senevirathne.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="UVINDUSEN" height="50" width="50" /></a>
 
 <!-- Add your instagram profile link -->
-<a href=" ------- paste your link here -------" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="UVINDUSEN" height="50" width="50" /></a>
+<a href="https://www.instagram.com/_.uvindu.sen._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="UVINDUSEN" height="50" width="50" /></a>
 
 <!-- Add your stackoverflow profile link -->
-<a href=" ------- paste your link here -------" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="UVINDUSEN" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="UVINDUSEN" height="50" width="50" /></a>
 </p>
